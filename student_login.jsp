@@ -37,11 +37,11 @@ try {
         flex-direction: column; 
         justify-content: center; 
         align-items: center;
-        height: 100vh; /* Height of the viewport */
-        background-image: url("university.jpg"); /* Path to the background image */
-        background-size: cover; /* Cover the entire viewport with the background image */
-        background-repeat: no-repeat; /* Prevent the image from repeating */
-        background-position: center; /* Center the image */
+        height: 100vh;
+        background-image: url("university.jpg"); 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center; 
     }
 
         h1 {
